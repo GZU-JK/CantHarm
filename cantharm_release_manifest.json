@@ -1,0 +1,77 @@
+{
+  "release_name": "2026-04-02 public release",
+  "release_snapshot": "2026-04-02",
+  "release_url": "https://cantharm.dataset.aidimsum.com/",
+  "intended_audience": "researchers, reviewers, and public release readers",
+  "created_on": "2026-04-02",
+  "public_files": {
+    "workbook": {
+      "filename": "cantharm_release_workbook.xlsx",
+      "size_bytes": 1723240,
+      "sha256": "81e9d6c4f8f89ce516f868737bda6c064eb10f9f0f06d5d76b6ad99532214a4f",
+      "sheet_roles": {
+        "01_forms_master": "form-level benchmark source",
+        "02_senses_master": "sense-level benchmark source"
+      }
+    },
+    "metadata_bundle": "cantharm_release_metadata_bundle.zip",
+    "benchmark_highlights": "cantharm_benchmark_highlights.csv",
+    "dataset_statistics": "cantharm_dataset_statistics.csv",
+    "readme": "cantharm_release_readme.md",
+    "reproducibility_note": "cantharm_reproducibility_note.md",
+    "audio_inventory": "cantharm_audio_inventory.csv"
+  },
+  "audio_assets": {
+    "total_files": 4823,
+    "total_size_bytes": 1903438994,
+    "naming_pattern": "Fxxxxx_SPKyy.wav",
+    "speaker_ids": [
+      "SPK01",
+      "SPK02",
+      "SPK03",
+      "SPK04",
+      "SPK05",
+      "SPK06",
+      "SPK07",
+      "SPK08",
+      "SPK09",
+      "SPK10",
+      "SPK11"
+    ],
+    "speaker_packages": [
+      "cantharm_audio_spk01.zip",
+      "cantharm_audio_spk02.zip",
+      "cantharm_audio_spk03.zip",
+      "cantharm_audio_spk04.zip",
+      "cantharm_audio_spk05.zip",
+      "cantharm_audio_spk06.zip",
+      "cantharm_audio_spk07.zip",
+      "cantharm_audio_spk08.zip",
+      "cantharm_audio_spk09.zip",
+      "cantharm_audio_spk10.zip",
+      "cantharm_audio_spk11.zip"
+    ]
+  },
+  "dataset_summary": {
+    "forms": 4823,
+    "senses": 6365,
+    "polysemous_forms": 1114,
+    "polysemous_ratio_pct": 23.1,
+    "avg_senses_per_form": 1.3197,
+    "forms_with_audio": 4823,
+    "audio_coverage_pct": 100.0,
+    "unique_speakers": 11
+  },
+  "definition_coverage_pct": {
+    "forms_zh": 95.25,
+    "forms_en": 97.68,
+    "senses_zh": 95.11,
+    "senses_en": 98.15
+  },
+  "source_diversity_pct": {
+    "coarse_diverse_forms": 8.46,
+    "fine_diverse_forms": 12.59
+  },
+  "benchmark_scope_note": "The benchmark summary on this site reports the representative results used in the manuscript.",
+  "repro_entrypoint": "cantharm_reproducibility_note.md"
+}

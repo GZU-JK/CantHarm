@@ -1,0 +1,46 @@
+section,metric,value,note
+bundle,public_workbook,cantharm_release_workbook.xlsx,public benchmark workbook alias
+bundle,canonical_audio_files,4823,all files are staged under .wav naming in the public release
+bundle,unique_speakers,11,SPK01-SPK11
+dataset,forms,4823,form-level rows
+dataset,senses,6365,sense-level rows
+dataset,polysemous_forms,1114,23.10 percent of forms
+dataset,avg_senses_per_form,1.3197,mean over all forms
+dataset,forms_with_audio,4823,100 percent coverage
+definitions,forms_with_zh_definitions,4594,95.25 percent
+definitions,forms_with_en_definitions,4711,97.68 percent
+definitions,senses_with_zh_definitions,6054,95.11 percent
+definitions,senses_with_en_definitions,6247,98.15 percent
+source_diversity,coarse_diverse_forms,408,8.46 percent of forms
+source_diversity,fine_diverse_forms,607,12.59 percent of forms
+coarse_distribution,Insult-discrimination,2470,51.21 percent
+coarse_distribution,Illicit-illegal,1206,25.01 percent
+coarse_distribution,Sexual-obscene,602,12.48 percent
+coarse_distribution,Benign,358,7.42 percent
+coarse_distribution,Political,181,3.75 percent
+coarse_distribution,Terror-extremism,6,0.12 percent
+severity,severity_0_count,358,7.42 percent
+severity,severity_ge_95_count,924,19.16 percent
+polysemy,sense_count_1_forms,3709,76.90 percent
+polysemy,sense_count_2_forms,796,16.50 percent
+polysemy,sense_count_3_forms,228,4.73 percent
+polysemy,sense_count_4_forms,74,1.53 percent
+polysemy,sense_count_5_forms,14,0.29 percent
+polysemy,sense_count_6_forms,1,0.02 percent
+polysemy,sense_count_8_forms,1,0.02 percent
+source_dictionary,Slang_sense_rows,4083,64.15 percent
+source_dictionary,GZ_Colloq_sense_rows,1713,26.91 percent
+source_dictionary,Prac_sense_rows,337,5.29 percent
+source_dictionary,JNU_sense_rows,232,3.64 percent
+task_split,form_coarse_train,3375,69.98 percent
+task_split,form_coarse_val,483,10.01 percent
+task_split,form_coarse_test,965,20.01 percent
+task_split,form_fine_train,3371,69.98 percent
+task_split,form_fine_val,482,10.01 percent
+task_split,form_fine_test,964,20.01 percent
+task_split,sense_coarse_train,4464,70.13 percent
+task_split,sense_coarse_val,631,9.91 percent
+task_split,sense_coarse_test,1270,19.95 percent
+task_split,sense_fine_train,4451,70.08 percent
+task_split,sense_fine_val,634,9.98 percent
+task_split,sense_fine_test,1266,19.93 percent

@@ -1,0 +1,254 @@
+[
+  {
+    "relative_path": "ACCEPTABLE_USE.md",
+    "filename": "ACCEPTABLE_USE.md",
+    "size_bytes": 1019,
+    "sha256": "4603d16f63ce9d7e40f3b081f4af6d97f1bb4c46b3063df897b3e3051ea4d4a4",
+    "last_write_time": "2026-06-02T14:31:19"
+  },
+  {
+    "relative_path": "ARCHIVAL_PLAN.md",
+    "filename": "ARCHIVAL_PLAN.md",
+    "size_bytes": 405,
+    "sha256": "a03d10088b12899a16df2bd1c61f7a0bf3536f790a13bcd93f8f2ec7072f0610",
+    "last_write_time": "2026-06-02T01:27:05"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk01.zip",
+    "filename": "cantharm_audio_spk01.zip",
+    "size_bytes": 42305864,
+    "sha256": "5c880b786774936f0e79c770afafd4f486cf1ecae1cb9fd7bd4b8607b9ebfdba",
+    "last_write_time": "2026-04-05T20:36:35"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk02.zip",
+    "filename": "cantharm_audio_spk02.zip",
+    "size_bytes": 117915628,
+    "sha256": "ae6d7ae60b9fb3fb958331bdd9eb928487949e4eb2289711a2f722dd0b7bfd20",
+    "last_write_time": "2026-04-05T20:36:58"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk03.zip",
+    "filename": "cantharm_audio_spk03.zip",
+    "size_bytes": 70034259,
+    "sha256": "9199fadebb776e60d868a02cf99edade770793577978bf0954c89db8b4bed36d",
+    "last_write_time": "2026-04-05T20:37:13"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk04.zip",
+    "filename": "cantharm_audio_spk04.zip",
+    "size_bytes": 116539658,
+    "sha256": "6b1c163f6707a29bc1ab3c2bee70c12c944521bb440e8a6d471cdcae4c3cae30",
+    "last_write_time": "2026-04-05T20:37:32"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk05.zip",
+    "filename": "cantharm_audio_spk05.zip",
+    "size_bytes": 52837882,
+    "sha256": "81f09a3c6d6a633b0d524c8770a0de80f016b0a9aafc47fdd87136b850c83a6d",
+    "last_write_time": "2026-04-05T20:37:41"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk06.zip",
+    "filename": "cantharm_audio_spk06.zip",
+    "size_bytes": 106502293,
+    "sha256": "ea5fbab0aa6cb45caa14a2041dccc62ea1033dcb923c238d541552a89e657881",
+    "last_write_time": "2026-04-05T20:37:57"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk07.zip",
+    "filename": "cantharm_audio_spk07.zip",
+    "size_bytes": 82111778,
+    "sha256": "ba2a78901fbae7b24d110d3efade89cd86020e069979cf5a3289ade56d8b20fd",
+    "last_write_time": "2026-04-07T00:14:39"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk08.zip",
+    "filename": "cantharm_audio_spk08.zip",
+    "size_bytes": 76656148,
+    "sha256": "46ae30c9d306bebcfc7b9b3f3ce3ffecdfaee886370dbd1eb1ddfada0c4e1c01",
+    "last_write_time": "2026-04-05T20:38:37"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk09.zip",
+    "filename": "cantharm_audio_spk09.zip",
+    "size_bytes": 66864138,
+    "sha256": "fa4ed215c721707b7b7d4669848f9b83075eedfdfc9625192f218b4831bd71f9",
+    "last_write_time": "2026-04-05T20:38:51"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk10.zip",
+    "filename": "cantharm_audio_spk10.zip",
+    "size_bytes": 109976235,
+    "sha256": "3df7b2815c159f3b48b4e46621668c9f677c732f3fea8fb8349ce9260662b80b",
+    "last_write_time": "2026-04-05T20:39:07"
+  },
+  {
+    "relative_path": "audio_packages/cantharm_audio_spk11.zip",
+    "filename": "cantharm_audio_spk11.zip",
+    "size_bytes": 24273962,
+    "sha256": "e5d1ee16d1b1bc7ac47cbf47f9b84238836e966c11a26df5fc870537f0d88bab",
+    "last_write_time": "2026-04-05T20:39:11"
+  },
+  {
+    "relative_path": "cantharm_audio_inventory.csv",
+    "filename": "cantharm_audio_inventory.csv",
+    "size_bytes": 573786,
+    "sha256": "cd67db37e1b7efc7029f0a57fa98a4bcae890fce56ec5545fcedb57813e4ff9c",
+    "last_write_time": "2026-06-02T16:06:31"
+  },
+  {
+    "relative_path": "cantharm_benchmark_highlights.csv",
+    "filename": "cantharm_benchmark_highlights.csv",
+    "size_bytes": 729,
+    "sha256": "cccb4209be641740442976cf57b679b3636f8428d2432be109f46860751642df",
+    "last_write_time": "2026-04-07T14:22:43"
+  },
+  {
+    "relative_path": "cantharm_dataset_statistics.csv",
+    "filename": "cantharm_dataset_statistics.csv",
+    "size_bytes": 2318,
+    "sha256": "0947c93a2a601354e0f426a8c703840b8104e8abaf73eb1f597a7c86e9268087",
+    "last_write_time": "2026-04-07T00:01:46"
+  },
+  {
+    "relative_path": "cantharm_release_manifest.json",
+    "filename": "cantharm_release_manifest.json",
+    "size_bytes": 2355,
+    "sha256": "c695aa4d51f553cde3f1598c7e79f621d833097346e0e3c07e55d08ca92e6851",
+    "last_write_time": "2026-04-08T20:43:29"
+  },
+  {
+    "relative_path": "cantharm_release_metadata_bundle.zip",
+    "filename": "cantharm_release_metadata_bundle.zip",
+    "size_bytes": 1741137,
+    "sha256": "bef05592c2a738d0fa037c8a9059b27c5378b4bc6f5f71f864f65b4292577572",
+    "last_write_time": "2026-06-02T16:06:31"
+  },
+  {
+    "relative_path": "cantharm_release_workbook.xlsx",
+    "filename": "cantharm_release_workbook.xlsx",
+    "size_bytes": 1723240,
+    "sha256": "81e9d6c4f8f89ce516f868737bda6c064eb10f9f0f06d5d76b6ad99532214a4f",
+    "last_write_time": "2026-04-02T17:05:22"
+  },
+  {
+    "relative_path": "CHANGELOG.md",
+    "filename": "CHANGELOG.md",
+    "size_bytes": 537,
+    "sha256": "66d1a6bd827078cd3c31ec27a8119e81066ee45c09afa890b1fd957c97ffab44",
+    "last_write_time": "2026-06-02T14:06:28"
+  },
+  {
+    "relative_path": "CITATION.bib",
+    "filename": "CITATION.bib",
+    "size_bytes": 273,
+    "sha256": "adb3e5e6f52de3e37dea182a466e907bfa8fdcd0af79071304998bb8a5f660d9",
+    "last_write_time": "2026-06-02T01:27:05"
+  },
+  {
+    "relative_path": "CITATION.cff",
+    "filename": "CITATION.cff",
+    "size_bytes": 515,
+    "sha256": "4e3434049084d7977d7438506c8d9de43802ad50801051614943e7196aea8f39",
+    "last_write_time": "2026-06-02T14:36:34"
+  },
+  {
+    "relative_path": "DATASHEET.md",
+    "filename": "DATASHEET.md",
+    "size_bytes": 1741,
+    "sha256": "ff64dcf483726a4004f39a12a6b95d4369e4790001ad13348789b97a259387c3",
+    "last_write_time": "2026-06-02T14:06:28"
+  },
+  {
+    "relative_path": "download_channels_staging.json",
+    "filename": "download_channels_staging.json",
+    "size_bytes": 3903,
+    "sha256": "10f2b569b6e69048b968211bb5856dff093741ff7c62b23ac8a9fb3cafa7eccc",
+    "last_write_time": "2026-06-02T14:29:54"
+  },
+  {
+    "relative_path": "DOWNLOAD_CHANNELS.md",
+    "filename": "DOWNLOAD_CHANNELS.md",
+    "size_bytes": 2521,
+    "sha256": "7d8737d49e321a178191c25d6484ba34c83e84d9c5adb3dbc82be18bdb930d2e",
+    "last_write_time": "2026-06-02T14:29:54"
+  },
+  {
+    "relative_path": "ETHICS_AND_SAFETY.md",
+    "filename": "ETHICS_AND_SAFETY.md",
+    "size_bytes": 973,
+    "sha256": "f7d4dfae65fee16fbabbe18cb4b0560a780a6b8057efc2ce44db2695b50973bf",
+    "last_write_time": "2026-06-02T14:31:19"
+  },
+  {
+    "relative_path": "LICENSE_AUDIO.md",
+    "filename": "LICENSE_AUDIO.md",
+    "size_bytes": 633,
+    "sha256": "7231964a0fcc83b21641999d2c03775e8466e37e57bab018662f9b7945a98226",
+    "last_write_time": "2026-06-02T01:27:05"
+  },
+  {
+    "relative_path": "LICENSE_CODE_MIT.txt",
+    "filename": "LICENSE_CODE_MIT.txt",
+    "size_bytes": 1073,
+    "sha256": "5af2196338215312172ec41461c1d8bb5e468f2810468cc3960ae7fcc2d42606",
+    "last_write_time": "2026-06-02T01:27:05"
+  },
+  {
+    "relative_path": "LICENSE_DATA.md",
+    "filename": "LICENSE_DATA.md",
+    "size_bytes": 720,
+    "sha256": "969b88c525bdff101944318b23bcf98a0360acc0aaaacf51960754272baf918c",
+    "last_write_time": "2026-06-02T01:27:05"
+  },
+  {
+    "relative_path": "mirror_templates/MIRROR_URLS_TO_FILL.md",
+    "filename": "MIRROR_URLS_TO_FILL.md",
+    "size_bytes": 1322,
+    "sha256": "930670d9fda819a6968329253b788104843f2eb22d859b85f3affe99b269262d",
+    "last_write_time": "2026-06-02T14:31:35"
+  },
+  {
+    "relative_path": "NOTICE_DICTIONARY_SOURCE_TEXT.md",
+    "filename": "NOTICE_DICTIONARY_SOURCE_TEXT.md",
+    "size_bytes": 599,
+    "sha256": "140ec229891faf6f293d5a27619d48bedc861c10b940470607c155155f3ea8df",
+    "last_write_time": "2026-06-02T01:27:05"
+  },
+  {
+    "relative_path": "PUBLIC_FILES_EXCLUDED.md",
+    "filename": "PUBLIC_FILES_EXCLUDED.md",
+    "size_bytes": 544,
+    "sha256": "cf903a103e58179b06ef126190922cd9d5a65ab2b86ed1687f70e6b818f59e8e",
+    "last_write_time": "2026-06-02T15:34:34"
+  },
+  {
+    "relative_path": "PUBLIC_FILES_INCLUDED.md",
+    "filename": "PUBLIC_FILES_INCLUDED.md",
+    "size_bytes": 634,
+    "sha256": "3af7f982b6a280e2e95ec72cb4155dce76216856f19ce9090853032469a4fbce",
+    "last_write_time": "2026-06-02T15:34:04"
+  },
+  {
+    "relative_path": "README.md",
+    "filename": "README.md",
+    "size_bytes": 1591,
+    "sha256": "661e54c0dd65bdf198a3499461efa78e2d2843c360e4c275dce7c6506af9b672",
+    "last_write_time": "2026-06-02T14:31:19"
+  },
+  {
+    "relative_path": "TAKEDOWN_AND_CONTACT.md",
+    "filename": "TAKEDOWN_AND_CONTACT.md",
+    "size_bytes": 417,
+    "sha256": "15af48b79306245c7df38cb9cd1b4f381a475cb9b21531a3d464030d65c48271",
+    "last_write_time": "2026-06-02T14:31:19"
+  },
+  {
+    "relative_path": "VERSIONING.md",
+    "filename": "VERSIONING.md",
+    "size_bytes": 513,
+    "sha256": "bf046b83b80fce1207aa158bdc878cdf7b65fbdc9435904383bbc62855576617",
+    "last_write_time": "2026-06-02T01:27:05"
+  }
+]

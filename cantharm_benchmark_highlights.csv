@@ -1,0 +1,7 @@
+scope,task,primary_metric,model,value,note
+summary,Form coarse classification,Macro-F1,XLM-R,0.5353066500303937,Main form-coarse benchmark result
+summary,Form fine classification,Macro-F1,Hierarchical TF-IDF + Linear SVM,0.4594117554408918,Main form-fine benchmark result
+summary,Form severity regression,Spearman,char TF-IDF + Ridge,0.6036579964150053,Main severity benchmark result
+summary,Fusion coarse classification,Macro-F1,Tuned late fusion,0.5414517655895953,Main speech-grounded fusion result
+summary,Sense coarse classification,Macro-F1,TF-IDF + LogReg,0.5032779720644106,Main sense-coarse benchmark result
+summary,Sense fine classification,Macro-F1,TF-IDF + LogReg,0.40570355423211873,Main sense-fine benchmark result
