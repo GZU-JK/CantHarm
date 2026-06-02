@@ -5,5 +5,6 @@ type: dataset
 version: "2026-04-02 public release"
 date-released: "2026-04-02"
 url: "https://cantharm.dataset.aidimsum.com/"
+doi: "10.5281/zenodo.20511573"
 license: "CC-BY-4.0"
-notes: "Dictionary-derived definitions/source text are restricted or excluded from the open-license scope unless source-specific permissions are confirmed. DOI must be replaced only after minting."
+notes: "Dictionary-derived definitions/source text are restricted or excluded from the open-license scope unless source-specific permissions are confirmed."

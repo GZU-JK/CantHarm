@@ -26,5 +26,4 @@ The dataset contains harmful and offensive lexical material and waveform audio. 
 
 ## DOI
 
-Zenodo DOI status: pending. Cite a DOI only after the public archive record is minted and independently verified.
-
+Zenodo DOI: https://doi.org/10.5281/zenodo.20511573

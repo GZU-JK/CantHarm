@@ -13,7 +13,7 @@ Planned mirrors before camera-ready:
 
 DOI status:
 
-- DOI pending after archive minting.
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20511573
 - Do not report a DOI until it is minted.
 
 This file is a staging plan and does not create archive objects or live URLs.

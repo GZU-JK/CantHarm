@@ -19,6 +19,12 @@ Current GitHub release:
 
 https://github.com/GZU-JK/CantHarm/releases/tag/v2026.04.02
 
+Zenodo archive and DOI:
+
+https://zenodo.org/records/20511573
+
+https://doi.org/10.5281/zenodo.20511573
+
 ## Included Documentation
 
 - `cantharm_release_manifest.json`
@@ -51,7 +57,7 @@ CantHarm contains harmful and offensive lexical material and waveform audio. Use
 
 Citation files are provided in `CITATION.cff` and `CITATION.bib`.
 
-Zenodo DOI status: pending. A DOI should be cited only after the public archive record is minted and independently verified.
+Zenodo DOI: https://doi.org/10.5281/zenodo.20511573
 
 ## Contact
 
@@ -60,4 +66,3 @@ Primary contact: yueyu_dimsum@163.com
 Backup contact: qijiayin@139.com
 
 Please use the contacts above for access questions, takedown requests, or safety concerns.
-
