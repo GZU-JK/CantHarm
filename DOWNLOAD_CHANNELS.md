@@ -12,4 +12,4 @@ This document records public access channels for the CantHarm 2026-04-02 release
 | Zenodo | current | https://zenodo.org/records/20511573; DOI: https://doi.org/10.5281/zenodo.20511573 | Public archival record and DOI. |
 | OSF | current | https://osf.io/3uhpx/ | Public OSF project mirror. |
 
-The current release does not include future or post-QA new words, revised audio candidates, second-speaker extensions, or any future data version.
+These channels describe only the locked 2026-04-02 public release.
