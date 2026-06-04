@@ -1,6 +1,6 @@
 # Data License
 
-The owner-approved release policy for the CantHarm workbook release artifact is CC BY 4.0.
+The release policy for the CantHarm workbook release artifact is CC BY 4.0.
 
 ## Scope
 
@@ -8,7 +8,7 @@ The CC BY 4.0 policy applies to the workbook release artifact and open dataset m
 
 ## Dictionary-Derived Source Text Caveat
 
-Derived labels, metadata, and source references are open. Dictionary-derived definitions and source text are restricted or excluded from the open-license scope unless source-specific permissions are confirmed.
+Derived labels, metadata, and source references are open. Dictionary-derived definitions and source text are outside the open-license scope unless source-specific permissions are confirmed.
 
 Users should not redistribute dictionary-derived source text as if it were unconditionally CC BY 4.0.
 

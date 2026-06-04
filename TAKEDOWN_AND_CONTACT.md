@@ -10,8 +10,7 @@ Backup author contact:
 
 Status:
 
-- confirmed by owner
-- pending live implementation
+- public contact/takedown channel
 
 Use these addresses for:
 
@@ -22,3 +21,4 @@ Use these addresses for:
 - release documentation questions
 
 Please include the file name, row ID, audio file name, or page URL where possible.
+

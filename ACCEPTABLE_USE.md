@@ -16,10 +16,10 @@ CantHarm is intended for research, audit, benchmark reproduction, and analysis o
 - production moderation without independent validation and human oversight
 - punitive decisions about real people or groups
 - demographic inference from speaker audio
-- unrestricted redistribution of dictionary-derived definitions/source text without permission
+- redistribution of dictionary-derived definitions/source text without source-specific permission
 
 ## Contact
 
 Questions, takedown requests, or safety concerns: yueyu_dimsum@163.com. Backup: qijiayin@139.com.
 
-Status: confirmed by owner, pending live implementation.
+Status: public release acceptable-use guidance.

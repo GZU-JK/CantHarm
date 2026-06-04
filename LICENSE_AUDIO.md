@@ -1,6 +1,6 @@
 # Audio License
 
-CantHarm audio is approved for CC BY 4.0 release with speaker consent.
+CantHarm audio is released under CC BY 4.0 with speaker consent.
 
 ## Scope
 

@@ -2,10 +2,10 @@
 
 The package intentionally excludes:
 
-- Future/post-QA/new-word materials.
-- Unreleased second recordings or revised-audio candidates.
-- Internal server paths, local paths, and private infrastructure names.
-- Internal automation reports and internal audit notes.
-- final_results, model results, trained checkpoints, and experimental branch metrics.
-- Paper source, rebuttal source, and reviewer-only internal reports.
-- Unapproved dictionary-derived source text beyond the documented release scope and caveat.
+- Materials outside the 2026-04-02 locked public release.
+- Non-release audio candidates.
+- Non-release operational notes and non-release infrastructure notes.
+- Non-release automation reports and non-release audit notes.
+- Non-release result artifacts, trained checkpoints, and exploratory experiment notes.
+- Paper/rebuttal source material and non-release review materials.
+- Dictionary-derived source text outside the documented release scope and caveat.

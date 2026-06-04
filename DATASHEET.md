@@ -37,16 +37,16 @@ IAA values from raw independent annotations:
 - production moderation deployment
 - punitive decisions
 - speaker recognition or voice cloning
-- claims of speaker-held-out generalization
+- claims of speaker-generalization
 - claims of conversational moderation coverage
 
 ## Limitations
 
 - one canonical clip per retained form
-- lexical-unit split; no speaker-held-out generalization claim is made
+- lexical-unit split; no speaker-generalization claim is made
 - current audio/fusion gains are modest and complementary
 - no speaker demographic distribution claim
-- dictionary-derived definitions/source text have restricted redistribution caveats
+- dictionary-derived definitions/source text have source-specific redistribution caveats
 
 ## Maintenance
 

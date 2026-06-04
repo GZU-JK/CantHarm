@@ -10,7 +10,7 @@ Open release scope:
 - benchmark statistics
 - public file inventory
 
-Restricted or excluded from open-license scope unless source-specific permissions are confirmed:
+Outside open-license scope unless source-specific permissions are confirmed:
 
 - dictionary-derived definitions
 - source text copied or closely derived from dictionaries

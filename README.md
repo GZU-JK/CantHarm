@@ -1,68 +1,48 @@
-# CantHarm
+# CantHarm 2026-04-02 Public Release
 
-CantHarm is a Cantonese spoken safety benchmark release centered on lexically grounded surface forms, linked senses, harm labels, severity scores, and canonical audio.
+This repository documents the locked CantHarm 2026-04-02 public release and provides reviewer-facing metadata, citation files, checksums, and release access links.
 
-Official project website: https://cantharm.dataset.aidimsum.com/
+Official website: https://cantharm.dataset.aidimsum.com/
 
-## Release
+GitHub release assets: https://github.com/GZU-JK/CantHarm/releases/tag/v2026.04.02
 
-- Release version: 2026-04-02 public release
+## Release Identity
+
+- Release version: 2026-04-02 locked public release
 - Forms: 4,823
 - Senses: 6,365
 - Canonical audio clips: 4,823
 - Speaker IDs: 11
 - Audio design: one canonical audio clip per retained form
+- Primary split: lexical-unit based; this release is not a speaker-generalization benchmark
 
-This repository provides reviewer-facing release documentation, citation files, checksums, and lightweight metadata. Large release objects are provided through the GitHub release assets and the official project website.
-
-Current GitHub release:
-
-https://github.com/GZU-JK/CantHarm/releases/tag/v2026.04.02
-
-Zenodo archive and DOI:
-
-https://zenodo.org/records/20511573
-
-https://doi.org/10.5281/zenodo.20511573
-
-## Included Documentation
+## Included Public Files
 
 - `cantharm_release_manifest.json`
+- `cantharm_release_workbook.xlsx`
+- `cantharm_release_metadata_bundle.zip`
 - `cantharm_dataset_statistics.csv`
 - `cantharm_benchmark_highlights.csv`
 - `cantharm_audio_inventory.csv`
-- `PACKAGE_MANIFEST.json`
-- `PACKAGE_SHA256SUMS.txt`
-- release license, ethics, acceptable-use, datasheet, citation, and contact/takedown documents
-
-## Main Release Files
-
-The current release contains:
-
-- `cantharm_release_workbook.xlsx`
-- `cantharm_release_metadata_bundle.zip`
 - `cantharm_audio_spk01.zip` to `cantharm_audio_spk11.zip`
 
-Use `PACKAGE_SHA256SUMS.txt` and `PACKAGE_MANIFEST.json` to verify downloaded files.
+## Not Included
 
-## License And Use
+- Materials outside the 2026-04-02 locked public release
+- Non-release operational notes, non-release result artifacts, trained checkpoints, or non-release adjudication notes
+- Redistribution of dictionary-derived definitions/source text requires source-specific permission
 
-- Dataset workbook and tabular release files: CC BY 4.0 with the dictionary-derived source-text caveat described in `NOTICE_DICTIONARY_SOURCE_TEXT.md`.
-- Audio files: CC BY 4.0 with speaker consent for this research dataset release. Do not use audio for speaker recognition, voice cloning, biometric modeling, or re-identification.
-- Code and lightweight scripts, if any are added later: MIT.
+## Public Mirrors And Archives
 
-CantHarm contains harmful and offensive lexical material and waveform audio. Use it for research and benchmark analysis, not production moderation or punitive decision-making.
+- GitHub repository: https://github.com/GZU-JK/CantHarm
+- GitHub release: https://github.com/GZU-JK/CantHarm/releases/tag/v2026.04.02
+- HuggingFace Dataset: https://huggingface.co/datasets/jk-gjom/CantHarm
+- Zenodo record: https://zenodo.org/records/20511573
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20511573
+- OSF project: https://osf.io/3uhpx/
 
-## Citation
+## Safety Notice
 
-Citation files are provided in `CITATION.cff` and `CITATION.bib`.
+CantHarm contains harmful and offensive lexical material and waveform audio. It is for research and benchmark analysis, not production moderation or punitive decision-making.
 
-Zenodo DOI: https://doi.org/10.5281/zenodo.20511573
-
-## Contact
-
-Primary contact: yueyu_dimsum@163.com
-
-Backup contact: qijiayin@139.com
-
-Please use the contacts above for access questions, takedown requests, or safety concerns.
+Contact/takedown: yueyu_dimsum@163.com. Backup: qijiayin@139.com.
