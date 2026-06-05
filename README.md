@@ -4,11 +4,32 @@ This repository documents the locked CantHarm 2026-04-02 public release.
 It provides reviewer-facing metadata, citation files, checksums, and release
 access links.
 
+Current public release: `v2026.04.02` / DOI `10.5281/zenodo.20511573`.
+
 ## Quick Links
 
 - Official website: https://cantharm.dataset.aidimsum.com/
 - GitHub release assets: https://github.com/GZU-JK/CantHarm/releases/tag/v2026.04.02
 - Zenodo DOI: https://doi.org/10.5281/zenodo.20511573
+- Versions page: https://cantharm.dataset.aidimsum.com/versions.html
+
+## Versioned Candidate Release
+
+`v1.1-gb-candidate` / `v2026.06.05-gb-candidate` is a separately
+versioned revised-audio candidate for the original 4,823 CantHarm forms.
+It has one selected second canonical recording per original form.
+
+This candidate is not the current v1.0 public release, is not the submitted
+locked results, does not replace DOI `10.5281/zenodo.20511573`, and does not
+overwrite the v1.0 benchmark table.
+
+- Website candidate page: https://cantharm.dataset.aidimsum.com/release-v2026-06-gb-candidate.html
+- Candidate results page: https://cantharm.dataset.aidimsum.com/revised-candidate-results.html
+- GitHub pre-release: https://github.com/GZU-JK/CantHarm/releases/tag/v2026.06.05-gb-candidate
+- HuggingFace candidate branch: https://huggingface.co/datasets/jk-gjom/CantHarm/tree/v2026.06.05-gb-candidate
+- Zenodo candidate record: https://zenodo.org/records/20558851
+- Candidate DOI: https://doi.org/10.5281/zenodo.20558851
+- OSF candidate component: https://osf.io/pwgcy/
 
 ## Release Identity
 
