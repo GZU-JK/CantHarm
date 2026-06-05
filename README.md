@@ -15,13 +15,10 @@ Current public release: `v2026.04.02` / DOI `10.5281/zenodo.20511573`.
 
 ## Versioned Candidate Release
 
-`v1.1-gb-candidate` / `v2026.06.05-gb-candidate` is a separately
-versioned revised-audio candidate for the original 4,823 CantHarm forms.
-It has one selected second canonical recording per original form.
-
-This candidate is not the current v1.0 public release, is not the submitted
-locked results, does not replace DOI `10.5281/zenodo.20511573`, and does not
-overwrite the v1.0 benchmark table.
+CantHarm `v1.1-gb` extends the locked 2026-04-02 release with a second
+canonical recording line for every original form. The selected manifest covers
+all 4,823 original forms and provides file-level hashes for the revised-audio
+candidate.
 
 - Website candidate page: https://cantharm.dataset.aidimsum.com/release-v2026-06-gb-candidate.html
 - Candidate results page: https://cantharm.dataset.aidimsum.com/revised-candidate-results.html
@@ -30,6 +27,9 @@ overwrite the v1.0 benchmark table.
 - Zenodo candidate record: https://zenodo.org/records/20558851
 - Candidate DOI: https://doi.org/10.5281/zenodo.20558851
 - OSF candidate component: https://osf.io/pwgcy/
+
+Versioning note: v1.0 remains the stable public release and archival DOI;
+v1.1-gb is a separately versioned candidate line.
 
 ## Release Identity
 
